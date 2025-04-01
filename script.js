@@ -38,3 +38,7 @@ let num2 = 2;
 /*Ejercicio 9*/
 
 console.log("Suma: ", num1 + num2);
+
+/*Ejercicio 10*/
+
+console.log("Resta: ", num1 - num2);
