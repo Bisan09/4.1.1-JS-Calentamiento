@@ -58,3 +58,7 @@ console.log("Módulo: ", num1 % num2);
 /*Ejercicio 14*/
 
 let miNombre = "Ivan Bisan";
+
+/*Ejercicio 15*/
+
+console.log("Hola " + miNombre);
