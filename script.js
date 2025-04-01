@@ -30,3 +30,7 @@ console.log("Palabra:", palabra);
 console.log("Respuesta:", respuesta);
 console.log("Pi:", pi);
 
+/*Ejercicio 8*/
+
+let num1 = 5;
+let num2 = 2;
