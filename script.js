@@ -54,3 +54,7 @@ console.log("División: ", num1 / num2);
 /*Ejercicio 13*/
 
 console.log("Módulo: ", num1 % num2);
+
+/*Ejercicio 14*/
+
+let miNombre = "Ivan Bisan";
