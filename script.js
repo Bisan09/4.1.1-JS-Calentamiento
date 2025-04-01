@@ -9,3 +9,7 @@ let palabra = "Hola Mundo";
 /*Ejercicio 3*/
 
 let respuesta = true;
+
+/*Ejercicio 4*/
+
+const pi = 3.14;
