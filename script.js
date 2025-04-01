@@ -34,3 +34,7 @@ console.log("Pi:", pi);
 
 let num1 = 5;
 let num2 = 2;
+
+/*Ejercicio 9*/
+
+console.log("Suma: ", num1 + num2);
