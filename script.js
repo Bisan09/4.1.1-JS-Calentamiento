@@ -13,3 +13,7 @@ let respuesta = true;
 /*Ejercicio 4*/
 
 const pi = 3.14;
+
+/*Ejercicio 5*/
+
+numero = 54;
