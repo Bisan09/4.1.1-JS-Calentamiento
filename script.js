@@ -46,3 +46,7 @@ console.log("Resta: ", num1 - num2);
 /*Ejercicio 11*/
 
 console.log("Multiplicación: ", num1 * num2);
+
+/*Ejercicio 12*/
+
+console.log("División: ", num1 / num2);
