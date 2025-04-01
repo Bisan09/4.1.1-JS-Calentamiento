@@ -42,3 +42,7 @@ console.log("Suma: ", num1 + num2);
 /*Ejercicio 10*/
 
 console.log("Resta: ", num1 - num2);
+
+/*Ejercicio 11*/
+
+console.log("Multiplicación: ", num1 * num2);
