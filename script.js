@@ -50,3 +50,7 @@ console.log("Multiplicación: ", num1 * num2);
 /*Ejercicio 12*/
 
 console.log("División: ", num1 / num2);
+
+/*Ejercicio 13*/
+
+console.log("Módulo: ", num1 % num2);
