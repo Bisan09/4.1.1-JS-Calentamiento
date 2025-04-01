@@ -20,8 +20,8 @@ numero = 54;
 
 /*Ejercicio 6*/
 
-console.log(numero);
-var numero = 10;
+console.log(num);
+var num = 10;
 
 /*Ejercicio 7*/
 
